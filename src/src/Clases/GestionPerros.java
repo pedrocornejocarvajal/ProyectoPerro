@@ -162,8 +162,7 @@ public class GestionPerros {
 		escribeAlumno("Perros.dat",tres);
 		escribeAlumno("Perros.dat",cuatro);
 		escribeAlumno("Perros.dat",cinco);
-		
-		System.out.println(leePerro("Perros.dat",1));
+				System.out.println(leePerro("Perros.dat",1));
 		System.out.println(leePerro("Perros.dat",3));
 		
 		
